@@ -1,3 +1,6 @@
+//add the dependency o3d,follow it's documentation in pubdev if required
+//there are many other ways too ,check youtube
+
 import 'package:flutter/material.dart';
 import 'package:o3d/o3d.dart';
 
